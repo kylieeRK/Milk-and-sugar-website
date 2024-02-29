@@ -80,8 +80,9 @@ body {
   h1 {
     text-align: center;
     color:#e74d90;
+    font-family: Georgia, 'Times New Roman', Times, serif;
    
         text-shadow:
-          1px 1px 1px #fd2487,
-          2px 2px 1px #fd2487;
+          1px 1px 1px #c91365,
+          2px 2px 1px #c91365;
   }
